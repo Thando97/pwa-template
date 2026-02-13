@@ -1,7 +1,7 @@
 {
   "name": "Phone Built PWA",
   "short_name": "PhonePWA",
-  "start_url": "./",
+  "start_url": "/thando97.github.io/pwa-template/",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#0f172a",
